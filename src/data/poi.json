@@ -1,0 +1,290 @@
+{
+    "type": "FeatureCollection",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Summerlee Science Complex",
+                "POI_id": 0,
+                "address": "474-570 Gordon St, Guelph, ON",
+                "video": "https://youtu.be/KVT0VdEjGWA",
+                "info": "https://admission.uoguelph.ca/campus-tour-highlights",
+                "view": "https://www.google.com/maps/@43.5301467,-80.2286783,3a,82.2y,308.33h,111.02t/data=!3m7!1e1!3m5!1sAF1QipMjkocuqHQzp75ekk7nSYwv91xHbrtz9P0OkmSv!2e10!3e12!7i7680!8i3840"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [43.530341, -80.228696]
+            }
+
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "University Centre",
+                "POI_id": 1,
+                "address": "150 Research Ln, Guelph, ON",
+                "video": "https://youtu.be/2KqGRP8cOFI",
+                "info": "https://admission.uoguelph.ca/campus-tour-highlights",
+                "view": "https://www.google.com/maps/@43.530745,-80.2264533,3a,82.2y,96.31h,91.78t/data=!3m7!1e1!3m5!1sAF1QipOTrVyVkHkoAF88Sq9ndQDom251qwqe7rLrMkpM!2e10!3e12!7i7680!8i3840"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [43.530610, -80.226225]
+            }
+
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rozanski Hall",
+                "POI_id": 2,
+                "address": "150 Research Ln, Guelph, ON",
+                "video": "https://youtu.be/2oxzhbo8YD8",
+                "info": "https://admission.uoguelph.ca/campus-tour-highlights",
+                "view": "https://www.google.com/maps/@43.5322454,-80.2258423,3a,82.2y,45.43h,103.79t/data=!3m7!1e1!3m5!1sAF1QipPGQjAg49Pe3S0O5F5TK1Tz-mcE-nX-ZuptxgVt!2e10!3e12!7i7680!8i3840"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [43.532270, -80.225842]
+            }
+
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "The Cannon",
+                "POI_id": 3,
+                "address": "150 Research Ln, Guelph, ON",
+                "video": "https://youtu.be/olPOU6nIpa0",
+                "info": "https://admission.uoguelph.ca/campus-tour-highlights",
+                "view": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [43.531310, -80.226858]
+            }
+
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "McLaughlin Library",
+                "POI_id": 4,
+                "address": "150 Research Ln, Guelph, ON",
+                "video": "https://youtu.be/NMAgRV02kXI",
+                "info": "https://admission.uoguelph.ca/campus-tour-highlights",
+                "view": "https://www.google.com/maps/@43.531538,-80.2274362,3a,82.2y,74.87h,88.15t/data=!3m7!1e1!3m5!1sAF1QipMxtGdIUMfV77mPUJ4aLeaZO_OLH5w3acRsxkC_!2e10!3e12!7i7680!8i3840"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [43.531516, -80.227658]
+            }
+
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Athletic Centre",
+                "POI_id": 5,
+                "address": "150 Research Ln, Guelph, ON",
+                "video": "https://youtu.be/tr1j5VsOGu0",
+                "info": "https://admission.uoguelph.ca/campus-tour-highlights",
+                "view": "https://www.google.com/maps/@43.5343829,-80.2239746,3a,82.2y,178.79h,95.86t/data=!3m7!1e1!3m5!1sAF1QipOhOoD9MPXoD6i2ynA7Czrp_Al4Wy3GzCSqZwRF!2e10!3e12!7i12070!8i6035"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [43.533515, -80.224546]
+            }
+
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Johnston Green",
+                "POI_id": 6,
+                "address": "150 Research Ln, Guelph, ON",
+                "video": "https://youtu.be/dlcB0qtQdcA",
+                "info": "https://admission.uoguelph.ca/campus-tour-highlights",
+                "view": "https://www.google.com/maps/@43.532782,-80.2296435,3a,82.2y,105.03h,91.31t/data=!3m7!1e1!3m5!1sAF1QipOyH3aWfY5S1WKtU6x-4GQpFNSu71TqUPDhq4rI!2e10!3e12!7i8704!8i4352"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [43.531951, -80.229995]
+            }
+
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "War Memorial Hall",
+                "POI_id": 7,
+                "address": "150 Research Ln, Guelph, ON",
+                "video": "https://youtu.be/qBqXuPrcD68",
+                "info": "https://admission.uoguelph.ca/campus-tour-highlights",
+                "view": "https://www.google.com/maps/@43.5326139,-80.2313271,3a,82.2y,52.87h,106.8t/data=!3m7!1e1!3m5!1sAF1QipOWGrI7ZyJL4RjXAieoJdov-NQ6ArogXBdSB4ez!2e10!3e12!7i8704!8i4352"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [43.532670, -80.231311]
+            }
+
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Thornbrough Building",
+                "POI_id": 8,
+                "address": "150 Research Ln, Guelph, ON",
+                "video": "https://youtu.be/qBqXuPrcD68",
+                "info": "https://admission.uoguelph.ca/campus-tour-highlights",
+                "view": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [43.530614, -80.225104]
+            }
+
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MacDonald Hall",
+                "POI_id": 9,
+                "address": "150 Research Ln, Guelph, ON",
+                "video": "https://youtu.be/1lT9SAAPJCs",
+                "info": "https://admission.uoguelph.ca/campus-tour-highlights",
+                "view": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [43.534250, -80.230937]
+            }
+
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "The Bullring",
+                "POI_id": 10,
+                "address": "150 Research Ln, Guelph, ON",
+                "video": "https://youtu.be/pbBjcN2Es8Y",
+                "info": "https://admission.uoguelph.ca/campus-tour-highlights",
+                "view": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [43.532050, -80.226405]
+            }
+
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "The Arboretum",
+                "POI_id": 11,
+                "address": "150 Research Ln, Guelph, ON",
+                "video": "https://youtu.be/qFJlUFjlSTA",
+                "info": "https://admission.uoguelph.ca/campus-tour-highlights",
+                "view": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [43.537381, -80.218335]
+            }
+
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "University Bookestore",
+                "POI_id": 12,
+                "address": "150 Research Ln, Guelph, ON",
+                "video": "https://youtu.be/x7sBOYsn4pU",
+                "info": "https://admission.uoguelph.ca/campus-tour-highlights",
+                "view": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [43.530750, -80.227250]
+            }
+
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Johnston Hall",
+                "POI_id": 13,
+                "address": "150 Research Ln, Guelph, ON",
+                "video": "https://youtu.be/ImKCChrm69k",
+                "info": "",
+                "view": "https://housing.uoguelph.ca/360"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [43.533114, -80.228484]
+            }
+
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lennox/Addington Hall",
+                "POI_id": 14,
+                "address": "150 Research Ln, Guelph, ON",
+                "video": "https://youtu.be/nHPXjNjau58",
+                "info": "",
+                "view": "https://housing.uoguelph.ca/360"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [43.535168, -80.231564]
+            }
+
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "East Residance",
+                "POI_id": 15,
+                "address": "150 Research Ln, Guelph, ON",
+                "video": "",
+                "info": "",
+                "view": "https://housing.uoguelph.ca/360"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [43.535545, -80.222309]
+            }
+
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "South Residance",
+                "POI_id": 15,
+                "address": "150 Research Ln, Guelph, ON",
+                "video": "",
+                "info": "",
+                "view": "https://housing.uoguelph.ca/360"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [43.530225, -80.222090]
+            }
+
+        }
+
+    ]
+}
